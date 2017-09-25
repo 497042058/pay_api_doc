@@ -2,7 +2,7 @@
 [TOC]
 
 #   环境
->   测试URL: http://47.95.42.12:80/customer/service
+>   测试URL: http://bjrcb-test-pay.291501.com/customer/service
 
 #   业务
 ##  卡bin信息查询请求参数

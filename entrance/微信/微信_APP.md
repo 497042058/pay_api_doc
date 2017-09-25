@@ -6,7 +6,7 @@
 [点击查看微信APP接入流程](https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=8_5)
 
 #   环境
->   测试URL：http://47.95.42.12:80/gateway
+>   测试URL：http://bjrcb-test-pay.291501.com/gateway
 
 #   说明
 >   在微信开放平台提交APP注册认证通过后，获得的APPID 这个操作如未完成的话 申请不成功，请知晓

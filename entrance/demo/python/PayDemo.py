@@ -8,11 +8,11 @@ import requests
 '''
     param init
 '''
-url = "http://47.95.42.12:80/gateway"
-key = "acc503c56b0c4fd399f7f7093d25223c"
+url = "http://bjrcb-test-pay.291501.com/gateway"
+key = "cNXuuqhUCPHv2tIZCvzPukAU3VYLzwre"
 
 service_type = "WECHAT_SCANNED"
-mch_id = "C149628461779610201"
+mch_id = "S149628461779633015"
 out_trade_no = str(random.choice(range(1000000)))
 device_info = "SN1234567890098765"
 body = "Python_Code"
