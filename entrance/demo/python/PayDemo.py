@@ -8,7 +8,7 @@ import requests
 '''
     param init
 '''
-url = "http://bjrcb-test-pay.291501.com/gateway"
+url = "http://bjrcb-test.291501.com/gateway"
 key = "cNXuuqhUCPHv2tIZCvzPukAU3VYLzwre"
 
 service_type = "WECHAT_SCANNED"
